@@ -7,11 +7,11 @@
 		background-color: #404040 !important;
 	}
 
-	a, h1,h2,h3,h4,h5 {
+	a, a span, h1, h2, h3, h4, h5 {
 		color: #7F9F7F !important;
 	}
 
-	h1,h2,h3,h4,h5 {
+	h1, h2, h3, h4, h5 {
 		border-bottom: 1px solid #505050 !important;
 		border-top: 1px solid #505050 !important;
 	}
@@ -20,7 +20,7 @@
 		background-color: #505050 !important;
 	}
 
-	a:visited {
+	a:visited, a:visited span {
 		color: #CC9393 !important;
 	}
 
